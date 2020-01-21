@@ -1,2 +1,2 @@
 # democritus
-MD software
+MD software to support C1
